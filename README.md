@@ -22,9 +22,9 @@ Tenho interesse em transformar dados em soluções práticas, combinando desenvo
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
@@ -34,7 +34,7 @@ Tenho interesse em transformar dados em soluções práticas, combinando desenvo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
 </p>
 
-### 📊 Dados & Analytics
+### Dados & Analytics
 
 * SAS
 * SAS Viya
@@ -69,9 +69,9 @@ Tenho interesse em transformar dados em soluções práticas, combinando desenvo
 
 ---
 
-## 📌 Projetos em destaque
+## Projetos em destaque
 
-### 🌱 Sistema Inteligente de Monitoramento de Maturação e Colheita
+### Sistema Inteligente de Monitoramento de Maturação e Colheita
 
 Projeto acadêmico utilizando **IoT, Cloud, Big Data e Machine Learning** para monitoramento agrícola.
 
@@ -87,7 +87,7 @@ Principais tecnologias:
 
 ---
 
-### 📡 Predição de Nutrientes do Solo com Machine Learning
+### Predição de Nutrientes do Solo com Machine Learning
 
 Projeto desenvolvido para estimar nutrientes do solo utilizando dados coletados por sensores e modelos de Machine Learning.
 
@@ -101,7 +101,7 @@ O modelo selecionado foi utilizado posteriormente em ambiente embarcado para rea
 
 ---
 
-### 🔗 APIs & Integrações
+### APIs & Integrações
 
 Projetos envolvendo desenvolvimento de APIs, integração entre sistemas, processamento de dados e automação de processos.
 
@@ -116,27 +116,7 @@ Tecnologias utilizadas:
 * SQL
 * Cloud
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasPereira01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasPereira01&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
-
----
-
-## 📊 Atividade
-
-![GitHub Contribution Snake](https://github.com/LucasPereira01/LucasPereira01/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 📫 Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
 
@@ -152,6 +132,6 @@ Tecnologias utilizadas:
 
 ---
 
-### 💡 Atualmente focado em
+### Atualmente focado em
 
 **Software Development • Data Engineering • SAS • APIs • Cloud • Big Data • Analytics**
