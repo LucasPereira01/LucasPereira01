@@ -1,124 +1,106 @@
-# Olá! Eu sou Lucas Pereira 👋
+# 👋 Olá, eu sou Lucas Pereira
 
 ### Software Developer | Data & Analytics | SAS | APIs & Integrations
 
-Sou desenvolvedor de software com experiência em **dados, desenvolvimento de sistemas, APIs, integrações e soluções analíticas**, atuando principalmente no ecossistema **SAS**.
+Sou **desenvolvedor de software com atuação em dados e analytics**, trabalhando com desenvolvimento de soluções, processamento de dados, APIs e integração entre sistemas.
 
-Atualmente trabalho com soluções envolvendo **SAS Viya, SAS Customer Intelligence 360 (CI360), Real-Time Decision Manager (RTDM), processamento de dados, integrações entre sistemas e desenvolvimento de APIs**.
+Minha experiência está principalmente concentrada no ecossistema **SAS**, incluindo **SAS Viya, Customer Intelligence 360 (CI360), Real-Time Decision Manager (RTDM)** e soluções orientadas a dados.
 
-Tenho interesse em transformar dados em soluções práticas, combinando desenvolvimento de software, engenharia de dados, analytics e cloud.
-
----
-
-## 🚀 Sobre mim
-
-* 💻 Desenvolvimento de software e soluções orientadas a dados
-* 📊 Experiência com **SAS, Data Analytics e processamento de dados**
-* 🔄 Desenvolvimento de **APIs e integrações entre sistemas**
-* ☁️ Experiência com ambientes **Cloud**
-* 🧩 Experiência com **SAS Viya, CI360 e RTDM**
-* 🌱 Interesse em **Data Engineering, Big Data, Cloud e Machine Learning**
-* 🎓 Formação em tecnologia com foco em **Big Data e dados**
+Também desenvolvo projetos utilizando **Python, SQL, JavaScript e tecnologias de Cloud**, buscando unir desenvolvimento de software, engenharia de dados e analytics para resolver problemas reais.
 
 ---
 
-## Tecnologias & Ferramentas
+## 🚀 O que eu faço
 
-### Desenvolvimento
+🔹 Desenvolvimento de aplicações e soluções orientadas a dados
+🔹 Desenvolvimento e integração de APIs REST
+🔹 Processamento, transformação e análise de dados
+🔹 Desenvolvimento de soluções utilizando SAS e SAS Viya
+🔹 Integração entre sistemas e plataformas
+🔹 Automação de processos
+🔹 Desenvolvimento de projetos envolvendo Cloud, Big Data e Machine Learning
+
+---
+
+## 🧰 Tecnologias
+
+### 💻 Desenvolvimento
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" height="40" alt="Dart"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="42" height="42" alt="Dart"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
 </p>
 
-### Dados & Analytics
+### 📊 Dados & Analytics
 
-* SAS
-* SAS Viya
-* SAS Visual Investigator
-* SAS Customer Intelligence 360
-* SAS Real-Time Decision Manager
-* SQL
-* Python
-* Pandas
-* Machine Learning
-* Big Data
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL"/>
+</p>
+
+**SAS • SAS Viya • SQL • Pandas • Machine Learning • Big Data**
 
 ### 🔌 APIs & Integrações
 
-* REST APIs
-* Python / Flask
-* FastAPI
-* Node.js
-* JSON
-* Postman
-* Integração entre sistemas
+**REST APIs • Flask • FastAPI • Node.js • JSON • Postman**
 
 ### ☁️ Cloud & DevOps
 
-* Microsoft Azure
-* Google Cloud
-* AWS
-* Azure DevOps
-* Git
-* GitHub
-* CI/CD
+**Azure • Google Cloud • AWS • Git • GitHub • Azure DevOps • CI/CD**
 
 ---
 
-## Projetos em destaque
+# Projetos em destaque
 
-### Sistema Inteligente de Monitoramento de Maturação e Colheita
+## Inteligência Artificial aplicada ao Agronegócio
 
-Projeto acadêmico utilizando **IoT, Cloud, Big Data e Machine Learning** para monitoramento agrícola.
+Projeto acadêmico desenvolvido utilizando **IoT, Machine Learning, Cloud e Big Data** para monitoramento e análise de dados agrícolas.
 
-Principais tecnologias:
+O projeto envolve coleta de dados através de sensores, processamento das informações e aplicação de modelos de Machine Learning.
 
-* ESP8266 / ESP32
-* Sensores IoT
-* Python
-* Machine Learning
-* Big Data
-* Cloud
-* Banco de dados
+**Tecnologias:**
+
+`Python` `Machine Learning` `IoT` `ESP8266` `ESP32` `Big Data` `Cloud`
 
 ---
 
-### Predição de Nutrientes do Solo com Machine Learning
+## 🧪 Predição de Nutrientes do Solo
 
-Projeto desenvolvido para estimar nutrientes do solo utilizando dados coletados por sensores e modelos de Machine Learning.
+Projeto de Machine Learning desenvolvido para estimar **fósforo (P) e potássio (K)** a partir de dados coletados de amostras de solo.
 
-Modelos avaliados:
+Foram avaliados diferentes modelos de regressão e posteriormente utilizados os coeficientes do modelo selecionado em um dispositivo embarcado.
 
-* Ridge Regression
-* Linear Regression
-* DWNN
+**Tecnologias:**
 
-O modelo selecionado foi utilizado posteriormente em ambiente embarcado para realizar as previsões.
+`Python` `Scikit-learn` `Ridge Regression` `Machine Learning` `C++` `ESP`
 
 ---
 
-### APIs & Integrações
+## APIs & Integrações
 
-Projetos envolvendo desenvolvimento de APIs, integração entre sistemas, processamento de dados e automação de processos.
+Projetos relacionados ao desenvolvimento de APIs, integração entre sistemas e automação de processos.
 
-Tecnologias utilizadas:
+**Tecnologias:**
 
-* Python
-* Flask
-* FastAPI
-* Node.js
-* REST
-* JSON
-* SQL
-* Cloud
+`Python` `Flask` `FastAPI` `Node.js` `REST` `JSON` `SQL`
 
-## Onde me encontrar
 
-<p align="left">
+# Contribution Graph
+
+<div align="center">
+
+<img src="https://github.com/LucasPereira01/LucasPereira01/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 📫 Contato
+
+<div align="left">
 
 <a href="https://www.linkedin.com/in/lucas-pereira-dev" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -128,10 +110,14 @@ Tecnologias utilizadas:
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</div>
 
 ---
 
 ### Atualmente focado em
 
 **Software Development • Data Engineering • SAS • APIs • Cloud • Big Data • Analytics**
+
+---
+
+> Transformando dados e tecnologia em soluções práticas.
