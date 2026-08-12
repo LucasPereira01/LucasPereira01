@@ -88,16 +88,6 @@ Projetos relacionados ao desenvolvimento de APIs, integração entre sistemas e 
 `Python` `Flask` `FastAPI` `Node.js` `REST` `JSON` `SQL`
 
 
-# Contribution Graph
-
-<div align="center">
-
-<img src="https://github.com/LucasPereira01/LucasPereira01/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 📫 Contato
 
 <div align="left">
