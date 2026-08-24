@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucas Pereira
+# Olá, eu sou Lucas Pereira
 
 ### Software Developer | Data & Analytics | SAS | APIs & Integrations
 
@@ -10,7 +10,7 @@ Também desenvolvo projetos utilizando **Python, SQL, JavaScript e tecnologias d
 
 ---
 
-## 🚀 O que eu faço
+##  O que eu faço
 
 🔹 Desenvolvimento de aplicações e soluções orientadas a dados
 🔹 Desenvolvimento e integração de APIs REST
@@ -22,9 +22,9 @@ Também desenvolvo projetos utilizando **Python, SQL, JavaScript e tecnologias d
 
 ---
 
-## 🧰 Tecnologias
+## Tecnologias
 
-### 💻 Desenvolvimento
+### Desenvolvimento
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
@@ -34,7 +34,7 @@ Também desenvolvo projetos utilizando **Python, SQL, JavaScript e tecnologias d
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3"/>
 </p>
 
-### 📊 Dados & Analytics
+### Dados & Analytics
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" height="42" alt="Python"/>
@@ -43,7 +43,7 @@ Também desenvolvo projetos utilizando **Python, SQL, JavaScript e tecnologias d
 
 **SAS • SAS Viya • SQL • Pandas • Machine Learning • Big Data**
 
-### 🔌 APIs & Integrações
+###  APIs & Integrações
 
 **REST APIs • Flask • FastAPI • Node.js • JSON • Postman**
 
@@ -67,7 +67,7 @@ O projeto envolve coleta de dados através de sensores, processamento das inform
 
 ---
 
-## 🧪 Predição de Nutrientes do Solo
+## Predição de Nutrientes do Solo
 
 Projeto de Machine Learning desenvolvido para estimar **fósforo (P) e potássio (K)** a partir de dados coletados de amostras de solo.
 
@@ -88,7 +88,7 @@ Projetos relacionados ao desenvolvimento de APIs, integração entre sistemas e 
 `Python` `Flask` `FastAPI` `Node.js` `REST` `JSON` `SQL`
 
 
-# 📫 Contato
+# Contato
 
 <div align="left">
 
